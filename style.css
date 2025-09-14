@@ -912,7 +912,7 @@ PC
   }
 
   .fv__contents {
-    background: url(../img/bg_fv.png) center center no-repeat;
+    background: url(./img/bg_fv.png) center center no-repeat;
     background-size: auto 100%;
     bottom: 100px;
     left: 0;
