@@ -635,3 +635,48 @@ html {
     font-size: 60px;
   }
 }
+
+body {
+  font-family: "Oswald", "Noto Sans JP", sans-serif;
+  color: #000;
+}
+body.is-fixed {
+  overflow: hidden;
+}
+
+/* header */
+.header {
+  background-color: #222;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
+.header__nav-item + .header__nav-item {
+  margin-top: 24px;
+}
+
+.header__container {
+  position: relative;
+}
+
+.header__logo {
+  display: inline-block;
+  padding: 14px 24px;
+  font-size: 20px;
+  color: #fff;
+}
+
+.header__menu-button {
+  border: none;
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  width: 30px;
+  height: 36px;
+  overflow: hidden;
+  color: transparent;
+  background: url(../img/bg_menu.png) center center no-r_
+
