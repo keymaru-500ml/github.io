@@ -212,7 +212,7 @@ PC
   }
   .main {
     -ms-flex-preferred-size: 79.2%;
-        flex-basis: 79.2%;
+/*         flex-basis: 79.2%; */
   }
   .header {
     position: relative;
