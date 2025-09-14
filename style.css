@@ -683,7 +683,7 @@ body.is-fixed {
 }
 
 .header__menu-button.is-checked {
-  background: url(../img/bg_menu-close.png) center center no-repeat;
+  background: url(./img/bg_menu-close.png) center center no-repeat;
   background-size: 100% auto;
 }
 
