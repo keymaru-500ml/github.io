@@ -39,7 +39,7 @@ body.is-fixed {
   height: 36px;
   overflow: hidden;
   color: transparent;
-  background: url(../img/bg_menu.png) center center no-repeat;
+  background: url(/img/bg_menu.png) center center no-repeat;
   background-size: 100% auto;
 }
 .header__menu-button.is-checked {
