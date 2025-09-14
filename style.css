@@ -68,7 +68,7 @@ body.is-fixed {
   left: 0;
   width: 100%;
   height: 209px;
-  background: url(./img/sp/bg_fv.png) center center no-repeat;
+  background: url(../img/sp/bg_fv.png) center center no-repeat;
   block-size: 100% auto;
   padding: 32px;
 }
